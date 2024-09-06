@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2MS2YNsP)
+
 # Grafiken mit SVG erstellen
 
 In diesem Projekt erweitern wir unsere erste eigene Webseite mit `SVG`-Grafiken.
@@ -410,7 +411,7 @@ Seitenlänge von 150 Einheiten. Zeichnen Sie ein zweites Quadrat darüber.
 Zeichnen Sie von diesem Quadrat nur den Umfang mit einer Dicke von 10 Einheiten,
 und rotieren Sie das Quadrat um 45°.
 
-> **Tipp:** Mit `transform=rotate(deg x y)` können Sie angeben um wieviel Grad
+> **Tipp:** Mit `transform="rotate(deg x y)"` können Sie angeben um wieviel Grad
 > eine Figur um den Punkt `(x, y)` gedreht werden soll.
 
 ### Aufgabe 05: Ellipse
